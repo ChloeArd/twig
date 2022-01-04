@@ -1,0 +1,18 @@
+{
+    "name": "chloe/twig",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Chloe\\Twig\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ChloeArd",
+            "email": "chloe.ardoise@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.3"
+    }
+}
